@@ -1,9 +1,9 @@
 # Cell Phone Webshop
-Hosting Link:  https://clamoore3.github.io/Moorellis-Phone-Webstore/
+Hosting Link:  (https://clamoore3.github.io/Moorellis-Phone-Webstore/)
 
 ## User Stories: 
 
-User types: 
+**User types:** 
 ------------
 - **Pilan Musketeer** is a future tech enthusiast who wants to purchase a phone company pushing the bounderies of modern mobile communications
 
