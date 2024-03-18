@@ -1,5 +1,5 @@
 # Cell Phone Webshop
-Hosting Link:  (Unable to connect to GitHub for Hosting Link)
+Hosting Link:  https://clamoore3.github.io/Moorellis-Phone-Webstore/
 
 ## User Stories: 
 
