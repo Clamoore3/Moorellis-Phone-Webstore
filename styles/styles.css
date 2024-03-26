@@ -1,6 +1,31 @@
 body {
-    background: #AFC2CB;
-background: -moz-linear-gradient(top, #AFC2CB 0%, #AFC2CB 50%, #556175 100%);
-background: -webkit-linear-gradient(top, #AFC2CB 0%, #AFC2CB 50%, #556175 100%);
-background: linear-gradient(to bottom, #AFC2CB 0%, #AFC2CB 50%, #556175 100%);
+    background: #000000;
+    background: -moz-linear-gradient(top, #000000 0%, #AFC2CB 50%, #556175 100%);
+    background: -webkit-linear-gradient(top, #000000 0%, #AFC2CB 50%, #556175 100%);
+    background: linear-gradient(to bottom, #000000 0%, #AFC2CB 50%, #556175 100%);
+}
+
+.navbar {
+    background-color: rgb(255, 20, 7);
+    display: inline-block;
+    margin: right 25px;
+}
+
+.buttom { 
+    background-color: rgb(31, 27, 235);
+    border-radius: 3px;
+    text-emphasis-color: black;
+}
+
+.banner {
+    border: 2px solid #1C6EA4;
+    text-align: center;
+}
+
+.ribbon {
+    border: 2px solid #020d14;
+    border-radius: 3px;
+    height: 25px;
+    display: inline-flex;
+    align-items: center;
 }
