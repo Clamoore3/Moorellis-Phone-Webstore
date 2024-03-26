@@ -1,6 +1,18 @@
 Name: Clarence Moore III
+
 Overview: Pre-Launch Phone Webstore.
-Description: Website is a mock presentation of a new style of Phones that have yet to be release to market. Cutting edge technologies. Purpose is to showcase phone marketability, while engaging potential clients & investors. 
+
+Description: Website is a mock presentation of a new style of Phones that have yet to be release to market. Cutting edge technologies. Purpose is to showcase phone marketability, while engaging potential clients & investors.
+
+Technologies used:
+1. HTML5
+2. CSS
+
+Ideas for Future improvement:
+1. Create platform where users can interact and give feedback to increase fuctionability as well as develop occult following. 
+2. Add option for Potential Investers to purchase shares in the company.
+3. increase user fuctionality 
+
 # Cell Phone Webshop
 Hosting Link:  (https://clamoore3.github.io/Moorellis-Phone-Webstore/)
 
